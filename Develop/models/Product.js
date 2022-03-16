@@ -47,4 +47,4 @@ Product.init(
   }
 );
 
-module.exports = Produ
+module.exports = Product;
